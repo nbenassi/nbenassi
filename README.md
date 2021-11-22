@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nbenassi
-- 👀 I’m interested in diseño y rogramación
+- 👀 I’m interested in diseño y programación
 - 🌱 I’m currently learning programacion web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
